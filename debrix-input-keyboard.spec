@@ -6,7 +6,7 @@
 %define		snap 20040628
 #
 Summary:	debrix keyboard driver
-Summary(pl.UTF-8):   Driver klawiatury dla debriksa
+Summary(pl.UTF-8):	Driver klawiatury dla debriksa
 Name:		debrix-input-keyboard
 Version:	0.1.0
 Release:	0.1
